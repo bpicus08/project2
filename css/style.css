@@ -1,0 +1,14 @@
+body{
+  background-color: #e5f9ff;
+  font-family: Helvetica, sans-serif;
+  color: black;
+  font-size: 1em;
+  line-height: 1.5;
+}
+nav{
+  background-color: #35589e;
+  width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  text-align: center;
+}
