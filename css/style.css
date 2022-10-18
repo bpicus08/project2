@@ -1,5 +1,7 @@
 body{
 	background-color: #228B22;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.1em;
 	}
 
 header {
@@ -35,4 +37,90 @@ header {
   width: 100%;
   position: relative;
   text-align: center;
+}
+
+h1 {
+	text-align: center;
+	background-color: #3364F5;
+	color: #000000;
+}
+
+h4 {
+	text-align: center;
+	background-color: #6E7373;
+	color: #000000;
+	margin: 30px;
+	padding: 5px;
+}
+
+h2{
+	background-color: #FB9722;
+    font-size: 2em;
+    color: #000000;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+h3 {
+    background-color: #FFDBB5;
+    color: #000000;
+	padding: 2px;
+}
+
+#brother{
+	width: 400px;  
+	height: 400px;  
+	border: 10px solid red;    
+	position: absolute;  
+	left:100px;
+	top: 200px;
+}
+	
+#mother{
+	width: 420px; 
+	height: 650px; 
+	border: 10px solid red;  
+	object-fit: none;  
+	position: absolute;  
+	left:600px;
+	top: 120px;
+}
+	
+#baseball{
+	width: 290px; 
+	height: 380px; 
+	border: 10px solid red;  
+	object-fit: none;  
+	position: absolute;  
+	left:1100px;
+	top: 200px;
+}
+
+#packers{
+	width: 680px; 
+	height: 380px; 
+	border: 10px solid yellow;  
+	position: relative;  
+	left:420px;
+	top: 10px;
+}
+#bucks{
+	width: 680px; 
+	height: 380px; 
+	border: 10px solid blue;    
+	position: relative;  
+	left:420px;
+	top: 10px;
+}
+
+#brewers{
+	width: 700px; 
+	height: 400px;
+	margin: 30px;
+	border: 10px solid white;  
+	position: relative;  
+	left:380px;
+	top: 10px;
 }
