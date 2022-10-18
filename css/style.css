@@ -1,14 +1,38 @@
 body{
-  background-color: #e5f9ff;
-  font-family: Helvetica, sans-serif;
-  color: black;
-  font-size: 1em;
-  line-height: 1.5;
+	background-color: #228B22;
+	}
+
+header {
+  background-color: #EBB813;
+  position: relative;
 }
-nav{
-  background-color: #35589e;
-  width: 100%;
+
+#main-navbar ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
   overflow: hidden;
-  margin: 0 auto;
+  display: inline-block
+}
+
+#main-navbar ul li {
+  float: left;
+  
+}
+
+#main-navbar ul li a {
+  display: block;
+  padding: 10px 234px;
+  color: #fff;
+  text-decoration: Highlight;
+}
+
+#main-navbar ul li a:hover {
+  background-color: #E7DA13;
+}
+
+#navbar-container {
+  width: 100%;
+  position: relative;
   text-align: center;
 }
