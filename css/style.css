@@ -19,7 +19,7 @@ header {
 
 #main-navbar ul li {
   float: left;
-  
+  position: relative;
 }
 
 #main-navbar ul li a {
@@ -27,6 +27,7 @@ header {
   padding: 10px 234px;
   color: #fff;
   text-decoration: Highlight;
+  font-weight: bold;
 }
 
 #main-navbar ul li a:hover {
