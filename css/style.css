@@ -13,7 +13,7 @@ header {
   list-style-type: none;
   padding: 0px;
   margin: 0px;
-  overflow: hidden;
+  position: relative;
   display: inline-block
 }
 
@@ -24,7 +24,7 @@ header {
 
 #main-navbar ul li a {
   display: block;
-  padding: 10px 234px;
+  padding: 10px 50px;
   color: #fff;
   text-decoration: Highlight;
   font-weight: bold;
