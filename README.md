@@ -1,1 +1,1 @@
-# project2
+# This project adds CSS to the already made project 1, which only contained HTML.
