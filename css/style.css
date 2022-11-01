@@ -1,8 +1,9 @@
+
 body{
 	background-color: #228B22;
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.1em;
-	}
+}
 
 header {
   background-color: #EBB813;
@@ -146,6 +147,7 @@ h3 {
 	position: relative;  
 	left:420px;
 	top: 10px;
+	
 }
 
 #brewers{
