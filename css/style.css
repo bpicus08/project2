@@ -163,9 +163,8 @@ h3 {
 #brewers{
   width: 720px; 
   height: 405px;
-  border: 0px;
   margin: 30px;
-  border: 10px solid white;  
+  border: 0px;
   position: relative;  
   left:380px;
   top: 10px;
